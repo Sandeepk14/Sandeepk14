@@ -44,7 +44,8 @@ I'm a skilled software developer with experience in JavaScript and expertise in 
 
 ## My GitHub Stats
 
-![Sandeepk14 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepk14&show_icons=true&theme=radical)
+![Sandeepk14 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepk14&show_icons=true&theme=radical&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepk14&layout=compact&theme=radical)
 
