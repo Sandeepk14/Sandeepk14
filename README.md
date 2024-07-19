@@ -42,12 +42,9 @@ I'm a skilled software developer with experience in JavaScript and expertise in 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t___h___e__s___a___n___d_ee__p/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-kumar-100211235)
 
-## My GitHub Stats
+# Sandeepk14's GitHub Profile
 
 ![Sandeepk14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepk14&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepk14&layout=compact&hide_title=true&hide_border=true)
-
 
