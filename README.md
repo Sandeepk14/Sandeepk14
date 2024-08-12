@@ -8,7 +8,7 @@ I'm a skilled software developer with experience in JavaScript and expertise in 
 - 🖥️ See my portfolio at [sandeep_Portfolio](https://teal-daffodil-f80e69.netlify.app/))
 - ✉️ You can contact me at [skraj5873@gmail.com](mailto:skraj5873@gmail.com)
 - 🧠 I'm learning  Mern & React Native.
-- 🤝 I'm open to collaborating on Machine Learning $ Data Science.
+- 🤝 I'm open to collaborating on Machine Learning & Data Science.
 - 🤝 I'm open to collaborating on Fullstack development | React Native Mobile App Development.
 - ⚡ Never allow someone's opinion to become your reality.
 
