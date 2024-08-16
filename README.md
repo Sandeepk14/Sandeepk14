@@ -1,13 +1,13 @@
 #  👋 Hi, I'm Sandeep Kumar
 
-## Software Engineer | Mern stack Developer
+## Data Analyst | Mern stack Developer
 
 I'm a skilled software developer with experience in JavaScript and expertise in frameworks like React, Node.js, and Express.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, user-friendly solutions that solve real-world problems. I love being part of a solution-driven tech community. I love to teach others about web development and I've made a lot of projects with multiple web technologies.
 
 - 🌍 I'm based in India.
 - 🖥️ See my portfolio at [sandeep_Portfolio](https://teal-daffodil-f80e69.netlify.app/))
 - ✉️ You can contact me at [skraj5873@gmail.com](mailto:skraj5873@gmail.com)
-- 🧠 I'm learning  Mern & React Native.
+- 🧠 I'm learning  Mern & Data Science.
 - 🤝 I'm open to collaborating on Machine Learning & Data Science Technology.
 - 🤝 I'm open to collaborating on Fullstack development | React Native Mobile App Development.
 - ⚡ Never allow someone's opinion to become your reality.
