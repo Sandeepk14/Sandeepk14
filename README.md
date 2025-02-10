@@ -79,7 +79,7 @@ As a Data Scientist, I'm skilled in analysing data, building machine learning mo
 # Sandeepk14's GitHub Profile 🚀  
 
 ## 📊 GitHub Stats  
-![Sandeepk14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepk14&show_icons=true&theme=radical&count_private=true&hide=prs,issues)  
+![Sandeepk14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepk14&show_icons=true&theme=radical&count_private=true&hide=prs,issues) 
 
 ## 🚀 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepk14&layout=compact&theme=radical&langs_count=8)  
